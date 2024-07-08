@@ -1,8 +1,16 @@
 # Slutte!
 
-This is very old source code from an emulator that I wrote in 1998, for the 1987 arcade game [Bionic Commando](https://en.wikipedia.org/wiki/Bionic_Commando_(1987_video_game)) (named "Top Secret" in Japan). This code became the basis for a driver that I submitted to the [MAME](https://www.mamedev.org/) project, way back at version [0.34b1](https://wiki.mamedev.org/index.php/MAME_0.34b1).
+![logo](SLUTTE!.GIF)
 
-Everything below here is from the `SLUTTE!.TXT` file.
+This is very old source code from an emulator that I wrote in 1998, for the 1987 arcade game [Bionic Commando](<https://en.wikipedia.org/wiki/Bionic_Commando_(1987_video_game)>) (named "Top Secret" in Japan). This code became the basis for a driver that I submitted to the [MAME](https://www.mamedev.org/) project, way back at version [0.34b1](https://wiki.mamedev.org/index.php/MAME_0.34b1).
+
+## Why did you called it "SLUTTE!"?
+
+Most emulators had very boring names. I thought it would be funny. I was 23 years old.
+
+## `SLUTTE!.TXT`
+
+Everything below here is from the `SLUTTE!.TXT` file that was distributed with the EXE.
 
 ```
 Slutte! (Beefheart version)
